@@ -1,0 +1,7 @@
+La entrega se realizó correctamente.
+Curso: 0109PO910, Curso de iniciación a Python
+Evaluación: 7. Test de comprensión
+
+Fecha de entrega: 29/7/24 22:03
+Remitente: ALEXANDRU KOVACS
+Número de confirmación: 698156a1c0d94936b337cab1112a341f
